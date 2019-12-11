@@ -10,12 +10,12 @@ print('number of arr dimensions: ',arr.ndim)
 print('~    ~    ~   shape: ',arr.shape)
 print('~    ~    ~   size: ', arr.size)
 
-# 输出结果：
-[[1 2 3]
- [4 5 6]]
-number of arr dimensions:  2
-~    ~    ~   shape:  (2, 3)
-~    ~    ~   size:  6  
+# # 输出结果：
+# [[1 2 3]
+#  [4 5 6]]
+# number of arr dimensions:  2
+# ~    ~    ~   shape:  (2, 3)
+# ~    ~    ~   size:  6
 
 # 定义一些特殊矩阵
 # 指定矩阵数据类型
